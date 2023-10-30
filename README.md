@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
   
 📫 How to reach me
-📧  robert54@gmail.com
+
+📧  robert54@gmail.com 
+
 🔗  https://www.linkedin.com/in/robert-rodriguez-sanchosql/ 
 
 <!---
