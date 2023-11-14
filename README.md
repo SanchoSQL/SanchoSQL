@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @SanchoSQL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-  
+👋 Hi, I’m @SanchoSQL
+<details>
+<summary>My Skills:</summary>
+<ul>
+  <li>SQL</li>
+  <li>SAS</li>
+  <li>Python</li>
+  <li>DBT</li>
+</ul>
+</details>
+
 📫 How to reach me
 
 📧  robert54@gmail.com 
