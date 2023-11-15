@@ -1,4 +1,4 @@
-👋 Hi, I’m @SanchoSQL
+👋 Hi, I’m Robert Rodriguez! @SanchoSQL
 <details>
 <summary>My Skills:</summary>
 <ul>
