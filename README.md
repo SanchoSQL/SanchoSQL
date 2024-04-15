@@ -2,9 +2,9 @@
 
 ### My Skills:
 <ul>
+  <li>Python</li>
   <li>SQL</li>
   <li>SAS</li>
-  <li>Python</li>
   <li>DBT</li>
 </ul>
 
